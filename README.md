@@ -8,4 +8,4 @@ Inspired by [this article on MacStories](https://www.macstories.net/news/a-surve
 
 How to use:
 1. [Install Rust](https://www.rust-lang.org/learn/get-started) if you don't have it already
-2. `cargo run https://apps.apple.com/us/charts/iphone/food-drink-apps/6023?chart=top-free` or something to that effect
+2. `cargo run 'https://apps.apple.com/us/charts/iphone/food-drink-apps/6023?chart=top-free'` or something to that effect
